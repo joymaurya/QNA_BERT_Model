@@ -4,7 +4,7 @@ Fine-Tuned BERT for Question Answering on SQuAD
 
 Overview
 This document is about fine-tuning BERT model for the question-answering task on the SQuAD (Stanford Question Answering Dataset) dataset.
-
+![ScreenShot](https://github.com/joymaurya/QNA_BERT_Model/edit/main/1.png)
 Model Details
 Model Architecture: BERT
 Dataset: SQuAD (Stanford Question Answering Dataset)
