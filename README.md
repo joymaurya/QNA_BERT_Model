@@ -23,5 +23,4 @@ accelerate-0.25.0
 User Interface:
 Didn't Used any web interface due to time constraints
 
-Training Scores :
-
+Training Scores : {'exact_match': 40.0, 'f1': 61.32333333333336} for 250 samples
